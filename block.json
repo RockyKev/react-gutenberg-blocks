@@ -1,0 +1,15 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/rk-video-embed",
+	"title": "Rk Video Embed",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "rk-video-embed",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
